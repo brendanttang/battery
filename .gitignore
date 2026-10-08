@@ -1,0 +1,18 @@
+# Environments / Secrets
+.env
+.env.*
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS / VS Code
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.vscode/
